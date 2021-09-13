@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JangYeonji
-- 👀 I’m interested in DB
+- 👀 I’m interested in DB, Data Analysis
 - 🌱 I’m currently learning Data Analysis to Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
