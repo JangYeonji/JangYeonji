@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JangYeonji
 - 👀 I’m interested in DB, Data Analysis
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - .
