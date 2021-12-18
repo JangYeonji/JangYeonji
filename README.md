@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JangYeonji
+- 👋 Hi, I’m @Jang Yeonji
 - 👀 I’m interested in DB, Data Analysis
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
