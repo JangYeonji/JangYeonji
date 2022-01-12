@@ -6,6 +6,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangYeonji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=jyj98020)](https://solved.ac/profile/jyj98020)
 
 ### Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Framework
 #### FrontEnd
