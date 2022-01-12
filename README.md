@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=header&text=Jang%20Yeonji&fontSize=60&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=header&text=Jang%20Yeonji&fontSize=60&&fontColor=ffffff)
 
 - 👋 Hi, I’m @Jang Yeonji
 - 👀 I’m interested in DB, Data Analysis
