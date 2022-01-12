@@ -1,9 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=random&height=200&section=header&text=Jang%20Yeonji&fontSize=90&animation=twinkling)
+
 - 👋 Hi, I’m @Jang Yeonji
 - 👀 I’m interested in DB, Data Analysis
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-
 
 
 ### Language &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Framework
