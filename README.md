@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-FF61F6?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp;
 
 #### 어느정도 사용 가능해요 :)
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp;
@@ -19,8 +21,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitHub-FF61F6?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp;
+
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
 
