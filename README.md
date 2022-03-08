@@ -56,6 +56,5 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <br/><br/>
 
-..
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangYeonji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=jyj98020)](https://solved.ac/profile/jyj98020)
