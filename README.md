@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=header&text=Jang%20Yeonji&fontSize=60&&fontColor=ffffff&desc=Back-End%20Developer&descAlignY=80&fontAlignY=40)
 
-### 소스코드 저장소
+### 아래 내용을 담은 소스코드 저장소입니다. 
 - 과거 프로젝트, 프로그램, 앱의 소스 코드
 - 혼자서 코딩 연습을 위해 끄적이던 소스 코드
 - 학부 시절 수강한 수업들의 코딩 과제 소스 코드
