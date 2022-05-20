@@ -46,6 +46,7 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
@@ -53,6 +54,7 @@
 <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
+
 <br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangYeonji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
