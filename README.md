@@ -30,6 +30,7 @@
 
 #### 보고 이해 가능해요 :)
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=AngularJS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Thymeleaf-0A84FF?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat-square&logo=scikit learn&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
