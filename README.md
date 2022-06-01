@@ -58,7 +58,7 @@
 <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a> -->
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangYeonji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
