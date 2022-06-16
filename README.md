@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=header&text=Jang%20Yeonji&fontSize=60&&fontColor=ffffff&desc=Back-End%20Developer&descAlignY=80&fontAlignY=40)
 
+<!-- ㉠ 기능 구현 및 장애(에러) 처리 가능한 것 Tip. 여기에 언급한 기술스택은 [과제 프로젝트 활용하였는지 자세하게 경험]에서 어떻게 서술해주세요.
+㉡ 사용경험은 있는 것 없으나, 교육 등으로 이론적 지식이 있는 것 -->
+
 #### 프로젝트에 활용 가능해요 :)
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
