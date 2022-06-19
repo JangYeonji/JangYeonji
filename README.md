@@ -3,23 +3,20 @@
 <!-- ㉠ 기능 구현 및 장애(에러) 처리 가능한 것 Tip. 여기에 언급한 기술스택은 [과제 프로젝트 활용하였는지 자세하게 경험]에서 어떻게 서술해주세요.
 ㉡ 사용경험은 있는 것 없으나, 교육 등으로 이론적 지식이 있는 것 -->
 
-#### 프로젝트에 활용 가능해요 :)
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> (<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>, <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>): OOP에 대한 지식이 있고, 콘솔 게임, MVC 패턴의 웹 개발, 모바일 개발 을 할 수 있습니다.<br/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> (<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>)
+ : 라이브러리를 활용해 알고리즘 구현과 웹 개발을 할 수 있습니다.<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+: Entity를 ERD로 작성해 본 경험이 있으며 요구사항에 맞춰 Schema를 작성할 수 있습니다.<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+ : Ajax, BootStrap 등을 활용하여 웹 개발을 할 수 있습니다..<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> & <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+: 태그, 속성을 활용하여 웹 개발을 할 수 있습니다.
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-FF61F6?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a>&nbsp;
 
-#### 어느정도 사용 가능해요 :)
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp;
@@ -29,7 +26,6 @@
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a>
 
-#### 보고 이해 가능해요 :)
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=AngularJS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Thymeleaf-0A84FF?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>&nbsp;
