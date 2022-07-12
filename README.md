@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white"/>
 <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=OWASP&logoColor=white"/>
-<br/>.
+<br/>
 
 #### 협업 툴 사용 경험
 <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-FF61F6?style=flat-square&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
