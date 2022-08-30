@@ -3,8 +3,6 @@
 <!-- ㉠ 기능 구현 및 장애(에러) 처리 가능한 것 Tip. 여기에 언급한 기술스택은 [과제 프로젝트 활용하였는지 자세하게 경험]에서 어떻게 서술해주세요.
 ㉡ 사용경험은 있는 것 없으나, 교육 등으로 이론적 지식이 있는 것 -->
 
-##### Ahnlab
-
 #### 프로젝트 활용 가능
 - <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> (<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>): OOP에 대한 지식이 있고, GUI 게임, MVC 패턴의 웹 개발, 모바일 개발 을 할 수 있습니다.<br/>
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> (<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>)
